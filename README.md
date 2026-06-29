@@ -4,7 +4,7 @@
 
 本專案為一個基於 Java Swing (WindowBuilder) 開發的餐飲點餐系統，核心架構嚴格遵循 **MVC (Model-View-Controller) 與 DAO (Data Access Object) 模式**進行三層式軟體工程設計。透過 Maven 進行依賴管理，並完美結合 MySQL 8.0 資料庫實作完整的會員 CRUD 操作與具備 ACID 特性的交易（Transaction）結帳機制。
 
-## 🛠️ 開發環境與技術棧
+## 🛠️ 開發環境
 
 * **作業系統環境**：跨平台 (Windows / Mac / Linux)
 * **開發工具**：Eclipse IDE (搭配 WindowBuilder 外掛)
